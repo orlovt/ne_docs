@@ -78,9 +78,7 @@
 	
 #### tg: 
 
-  [@torlov](https://t.me/torlov)
-  
-  [@senyafeelsgood](https://t.me/senyafeelsgood)
+  [@torlov](https://t.me/torlov) [@senyafeelsgood](https://t.me/senyafeelsgood)
 
 	
 		
