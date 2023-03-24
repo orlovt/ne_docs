@@ -76,6 +76,10 @@
 
 	
 	
+#### tg: 
+[@torlov](https://t.me/torlov)
+[@senyafeelsgood](https://t.me/senyafeelsgood)
+
 	
 		
 
