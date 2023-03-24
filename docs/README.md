@@ -28,7 +28,7 @@
 * Цена (69990) - отражает наличие пары у конкурентов
 
 <p align="center">
-<img  src = "table_.jpeg" width = "100%" >
+<img  src = "table.jpeg" width = "100%" >
 </p> 
 
 #### Что не готово на данный момент со стороны парсера (сбор данных) (бэкэнд):
@@ -77,8 +77,9 @@
 	
 	
 #### tg: 
-[@torlov](https://t.me/torlov)
-[@senyafeelsgood](https://t.me/senyafeelsgood)
+
+  [@torlov](https://t.me/torlov)
+  [@senyafeelsgood](https://t.me/senyafeelsgood)
 
 	
 		
