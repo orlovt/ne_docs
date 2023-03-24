@@ -7,10 +7,7 @@
   * запросы вида: `/sku GX3605` - возвращает информацию по совпадению с kicksmania, sortage S2
 (в случае если на одном из сайтов нет результатов по запросу выдает (скрин 3)) S3
 
-<img src = "S1.jpg" width = "20%" >
-<img src = "S2.jpg" width = "20%">
-<img src = "S_2.jpg" width = "20%">
-<img src = "S3.jpg" width = "20%">
+<img src = "S1.jpg" width = "20%" ><img src = "S2.jpg" width = "20%"><img src = "S_2.jpg" width = "20%"><img src = "S3.jpg" width = "20%">
 
 
 1.  ##### Сбор данных по широкому запросу команда `/pair`
@@ -25,8 +22,7 @@
 * NaN (пустая клетка) обозначает что на сайте данного размера в наличии нет (обвести)
 * Цена в рублях (55990) обозначает цену и отражает наличие пары у конкурентов. (обвести)
   
-<img src = "pair_travis.jpg" width = "20%" alt = "/sku travis">
-<img src = "table_.jpeg" width = "72.5%" alt = "/sku travis">
+<img src = "pair_travis.jpg" width = "20%"><img src = "table_.jpeg" width = "72.5%">
 
 #### Что не готово на данный момент со стороны парсера(сбор данных) (бэкэнд):
 
